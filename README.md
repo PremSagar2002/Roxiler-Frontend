@@ -2,26 +2,6 @@
 
 Welcome to the Roxiler Frontend repository! This project provides a user interface to interact with the backend APIs for managing and analyzing product transactions.
 
-## Usage
-
-To utilize the frontend application, please follow these steps:
-
-1. Ensure the backend API is deployed and accessible.
-2. Clone this repository to your local machine.
-3. Install the necessary dependencies using npm or yarn:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the frontend application:
-
-   ```bash
-   npm start
-   ```
-
-5. Access the application through your web browser at http://localhost:3000.
-
 ## Features
 
 ### Transactions Table
@@ -45,11 +25,8 @@ Here are the deployment steps to run the frontend application on localhost:
 
 1. **Ensure Backend API is Running**: Before deploying the frontend, make sure the backend API is deployed and accessible.
 
-2. **Clone Repository**: Clone the frontend repository to your local machine using Git. Open your terminal and run the following command:
+2. **Clone Repository**: Clone the frontend repository to your local machine using Git. Open your terminal and run the following command
 
-git clone <frontend_repository_url>
-
-Replace `<frontend_repository_url>` with the URL of your frontend repository.
 
 3. **Navigate to Project Directory**: Move into the project directory using the `cd` command:
 
@@ -63,4 +40,4 @@ Replace `<frontend_repository_url>` with the URL of your frontend repository.
 
    npm start
 
-6. **Access Application**: Once the server is running, access the frontend application through your web browser at [http://localhost:3000](http://localhost:3000).
+6. **Access Application**: Once the server is running, access the frontend application through your web browser at [http://localhost:3000](http://localhost:3001).
